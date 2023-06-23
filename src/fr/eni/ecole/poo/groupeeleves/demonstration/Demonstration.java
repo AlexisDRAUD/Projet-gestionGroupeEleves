@@ -266,6 +266,8 @@ public class Demonstration {
 		listeDesPersonnesResponsables();
 
 		creerManeges();
+		
+		System.out.println("Test de compareto");
 	}
 
 }
