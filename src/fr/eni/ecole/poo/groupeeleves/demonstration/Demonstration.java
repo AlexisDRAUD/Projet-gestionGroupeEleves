@@ -267,7 +267,7 @@ public class Demonstration {
 
 		creerManeges();
 		
-		System.out.println("Test de compareto");
+		System.out.println("Je fais un test");
 	}
 
 }
